@@ -7,8 +7,8 @@ while True:
     print("\nMain Menu")
     print("1. Temperature Advisor")
     print("2. Unit Converter")
-    print("3. Calculator | not coded yet")
-    print("4. Exit | not coded yet")
+    print("3. Calculator")
+    print("4. Exit")
 
     # The choice they pick determines how the program will proceed
     choice = (input("\nSelect one to continue... "))
@@ -689,3 +689,4 @@ while True:
 
     else:
         print("Option does not exist. Please try again...")
+
