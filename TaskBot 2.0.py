@@ -434,7 +434,7 @@ while True:
 
                             choice_square = str(input("Choose an Option: "))
                             if "1" == choice_square:
-                                print("Area of a Squar: Side * Side.")
+                                print("Area of a Square: Side * Side.")
                                 while True:
                                     side1 = int(input("Input a Side: "))
                                     side2 = int(input("Input another Side: "))
@@ -689,4 +689,5 @@ while True:
 
     else:
         print("Option does not exist. Please try again...")
+
 
